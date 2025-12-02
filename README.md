@@ -1,7 +1,6 @@
 
-  # Airbnb-style Booking Website
-
-  This is a code bundle for Airbnb-style Booking Website. The original project is available at 
+  # Easy-Pg Booking Website
+ 
   https://moon-flow-70969974.figma.site/
   ## Running the code
 
